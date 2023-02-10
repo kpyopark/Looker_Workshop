@@ -24,4 +24,4 @@ This guide uses Korea public datasets from Korean government public dataset port
 
 ## Tutorials
 
-- Stage #1. Data Preparation
+- [Stage #1. Data Preparation](/stage1_preparation_data.md)
